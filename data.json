@@ -1,0 +1,29 @@
+{
+    "products": [
+      {
+        "idSP": "SP001",
+        "tenSP": "Áo thun nam",
+        "anhSP": "https://example.com/images/ao-thun-nam.jpg",
+        "giaNhap": 150000,
+        "giaBan": 250000,
+        "tonKho": 100
+      },
+      {
+        "idSP": "SP002",
+        "tenSP": "Quần jean nữ",
+        "anhSP": "https://example.com/images/quan-jean-nu.jpg",
+        "giaNhap": 200000,
+        "giaBan": 350000,
+        "tonKho": 50
+      },
+      {
+        "idSP": "SP003",
+        "tenSP": "Giày thể thao unisex",
+        "anhSP": "https://example.com/images/giay-the-thao-unisex.jpg",
+        "giaNhap": 300000,
+        "giaBan": 450000,
+        "tonKho": 75
+      }
+    ]
+  }
+  
