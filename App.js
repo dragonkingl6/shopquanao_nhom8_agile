@@ -16,4 +16,4 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
 });
-// huydz17
+// duc dz khoai to súa git
