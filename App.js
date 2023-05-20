@@ -16,4 +16,4 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
 });
-// duc dz khoai to súa git
+// fix git
